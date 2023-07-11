@@ -28,7 +28,7 @@
 }
 
 .banner-text h1{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato',;
     font-size: 70px;
     font-weight: 900;
     margin-bottom: 20px;
@@ -64,4 +64,125 @@
 }
 .banner-img img{
      width: 60%;
+}
+
+.feature-head{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.feature-head h1{
+    font-family: 'Lato';
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.feature-head p{
+    font-family: 'Lato';
+    font-size: 18px;
+    color: #272727;
+    padding: 0 300px;
+}
+
+.hot-deal{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.deal-text h2{
+    font-family: 'Lato';
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: 180px;
+    margin-bottom: 20px;
+
+}
+.deal-text h2 span{
+    color: #E55473;
+    
+}
+
+.deal-text p{
+    font-family: 'Lato';
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.deal-text button{
+    padding: 10px 20px;
+    color: #fff;
+    background: #E55473;
+    border: none;
+    font-weight: 700;
+}
+
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.item{
+    width: 280px;
+}
+
+.letest-part{
+    background-image:url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.letest-text{
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+.letest-text h2{
+    font-family: 'Lato';
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+
+}
+
+.letest-text p{
+    font-family: 'Lato';
+    font-size: 18px;
+    margin-bottom: 20px;
+
+}
+.Subscribe{
+    padding: 10px 20px;
+    background-color: #E55473;
+    border: none;
+}
+
+
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    background-color: #111010;
+    color: #fff;
+    padding: 50px 100px;
+}
+
+.footer h1 {
+    font-family: 'Lato';
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 20px;
+
+}
+
+.footer h1 span{
+    color: #E55473;
+}
+
+.footer p{
+    font-family: 'Lato';
+    font-size: 18px;
+    padding: 0 200px;
+    margin-bottom: 20px;
 }
